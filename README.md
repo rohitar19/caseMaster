@@ -29,7 +29,7 @@ https://devshowcase-22.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/mondalraj/devshowcase.git
+  git clone https://github.com/rohitar19/caseMaster.git
 ```
 
 Go to the project directory
